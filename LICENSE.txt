@@ -1,0 +1,27 @@
+GetTorrent Proprietary Use License
+Copyright © 2026. All rights reserved.
+
+Permission is granted to download and use an unmodified copy of GetTorrent for
+personal use or internal evaluation.
+
+No permission is granted to modify, adapt, translate, create derivative works
+from, redistribute, sublicense, sell, rent, lease, or commercially exploit
+GetTorrent or its source code without prior written permission from the
+copyright holder.
+
+This license does not restrict rights that cannot lawfully be restricted and
+does not override any separate license that applies to a third-party
+dependency used by GetTorrent.
+
+GetTorrent is provided "AS IS", without warranty of any kind, express or
+implied, including warranties of merchantability, fitness for a particular
+purpose, and noninfringement.
+
+Use GetTorrent only to download content you are legally authorized to obtain.
+GetTorrent does not provide, index, host, or bundle torrent content.
+
+If this project is published in a public GitHub repository, GitHub's Terms of
+Service permit GitHub users to view and fork the public repository using
+GitHub's platform functionality. This notice does not grant broader rights
+beyond those provided by applicable law, GitHub's Terms, or written permission
+from the copyright holder.
